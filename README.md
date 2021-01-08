@@ -12,14 +12,17 @@ El siguiente código permite descargar las bases de datos directamente desde el 
 
     load(url("https://github.com/jciturras/data-chile/blob/main/data/casen-2017/casen-2017.RData?raw=true"))
 
+> [Manual de usuario](http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/docs/Manual_del_Investigador_Casen_2017.pdf)
+
 ## Censo 2017
 
     load(url("https://github.com/jciturras/data-chile/blob/main/data/censo-2017/censo-2017.RData?raw=true"))
 
-![Datos en RStudio](input/images/data-chile.PNG)
+> [Manual de usuario](https://redatam-ine.ine.cl/manuales/Manual-Usuario.pdf)
 
+![Datos en RStudio](input/images/data-chile.PNG)
 
 ### Fuentes originales:
 
-1. Base de datos del Censo se obtuvo de https://www.censo2017.cl/.
-2. Base de datos de la Encuesta de Caracterización Socioeconómica 2017 fue obtenida desde http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/basedatos.php
+1.  Base de datos del Censo se obtuvo de <https://www.censo2017.cl/>.
+2.  Base de datos de la Encuesta de Caracterización Socioeconómica 2017 fue obtenida desde <http://observatorio.ministeriodesarrollosocial.gob.cl/casen-multidimensional/casen/basedatos.php>
