@@ -1,6 +1,6 @@
 # Datos de Chile
 
-Bases de datos de Chile para ser empleadas principalmente desde R
+Bases de datos de Chile para ser empleadas principalmente desde R. La idea es poder ahorrar algunos pasos como son la descarga de las bases de datos y el uso de librerías externas para cargar fuentes de datos con extensiones como .dta, .sav o .csv
 
 -   Bases fueron previamente importadas a R y guardadas en formato .RData para facilitar su uso.
 
